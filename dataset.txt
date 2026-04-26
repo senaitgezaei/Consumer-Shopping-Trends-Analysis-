@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/obaidhere/netflix-content-strategy-genre-and-rating-analysis
+
+I chose this dataset because I want to explore the different trends in Netflix content. I want to see the difference between genres and ratings
+across different titles and years. I will analyze relationships between genres, IMDb ratings, and release year. I want to create visualizations 
+that show patterns in content strategy and audience reception.
